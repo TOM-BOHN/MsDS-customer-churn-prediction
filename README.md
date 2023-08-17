@@ -10,6 +10,7 @@ In this report, I will play the role of data scientist.  Stepping out of my busi
 ## Main Report
 The main report is stored in a python notebook under the name [customer_churn_prediction.ipynb](customer_churn_prediction.ipynb)
 
-**Github Repo Link:** https://github.com/TOM-BOHN/MsDS-customer-churn-prediction
-
-**[Presentation Slides](https://docs.google.com/presentation/d/1MVGBJoYfayA7F4XZ3TbNTLYXJ-UuapbMyhLUlm4V3Mw/edit?usp=sharing)** and **[Presentation Video](TBD)**
+## Other Useful Content
+- **Github Repo Link:** https://github.com/TOM-BOHN/MsDS-customer-churn-prediction
+- **[Presentation Slides](https://docs.google.com/presentation/d/1MVGBJoYfayA7F4XZ3TbNTLYXJ-UuapbMyhLUlm4V3Mw/edit?usp=sharing)**
+- **[Presentation Video](TBD)**
