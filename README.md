@@ -13,4 +13,4 @@ The main report is stored in a python notebook under the name [customer_churn_pr
 ## Other Useful Content
 - **Github Repo Link:** https://github.com/TOM-BOHN/MsDS-customer-churn-prediction
 - **[Presentation Slides](https://docs.google.com/presentation/d/1MVGBJoYfayA7F4XZ3TbNTLYXJ-UuapbMyhLUlm4V3Mw/edit?usp=sharing)**
-- **[Presentation Video](https://drive.google.com/file/d/15MBnK6NaIbQki00uGUAT-3S8GR7ZqxVE/view?usp=sharing)https://drive.google.com/file/d/15MBnK6NaIbQki00uGUAT-3S8GR7ZqxVE/view?usp=sharing)**
+- **[Presentation Video](https://drive.google.com/file/d/15MBnK6NaIbQki00uGUAT-3S8GR7ZqxVE/view?usp=sharing)**
